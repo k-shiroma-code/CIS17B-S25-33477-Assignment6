@@ -14,9 +14,9 @@ Name: Kyle Shiroma
 <img width="1280" alt="Screenshot 2025-06-03 at 10 07 01 PM" src="https://github.com/user-attachments/assets/c6ae6697-f99d-4e41-a95e-6d19ba25575c" />
 
 
-## 🛠️ How to Compile and Run
+## How to Compile and Run
 
-### Option 1: Using Qt Creator (Recommended)
+### Using Qt Creator
 1. Open **Qt Creator**.
 2. Click `File` → `Open File or Project`.
 3. Select the `CMakeLists.txt` file in the root of the project folder.

@@ -15,8 +15,6 @@ Name: Kyle Shiroma
 
 
 ## How to Compile and Run
-
-### Using Qt Creator
 1. Open **Qt Creator**.
 2. Click `File` → `Open File or Project`.
 3. Select the `CMakeLists.txt` file in the root of the project folder.
